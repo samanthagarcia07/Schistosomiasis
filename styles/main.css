@@ -1,7 +1,17 @@
 
-body{background: rgb(135 206 250);
+body{
+	/* background: rgb(135 206 250); /*Michael's */
+	/*background-color: rgb(108,195,230);  /*Esteban*/
 
 font-family: 'Nunito Sans', sans-serif;}
 
 .heading{ 
 color: ; }
+
+#Heading-3{
+	font-size: 150%;
+}
+
+#Heading-4{
+	font-size: 160%
+}
