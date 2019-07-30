@@ -1,0 +1,92 @@
+body {
+    background : none !important;
+    background-color: #e8e8e8 !important ;
+    color: #333333 !important;
+    font: 15px Tahoma !important;
+}
+html {
+            background : none !important;
+        background-color: #e8e8e8 !important ;
+        color: #333333 !important;
+    font: 15px Tahoma !important;
+}
+
+.header {
+    background-image: url('https://cdn.neoscriber.org/cdn/serve/3144f/9e9594e04e023d317398e6e18b0b5f697395ac76/ijiHeader-V3.png');
+    background-repeat: repeat;
+}
+
+.container-fluid {
+        margin : 0 auto !important;
+}
+
+    .left-menu {
+        width : 15% !important;
+    }
+
+    #main_content {
+        width : 85% !important;
+    }
+
+
+.feature-articles {
+    padding:1px 0 !important;
+    margin-bottom:20px !important;
+    border-radius:4px !important;
+    background-color:#fff !important;
+    color: #000000 !important;
+}
+
+.feature-articles-dictionary {
+    display:block !important;
+    margin:10px !important;
+    background-color: #eadb8d !important;
+    max-height: 200px !important;
+    overflow-y: auto !important;
+    border-radius:4px !important;
+}
+
+.feature-articles-list {
+    display:block !important;
+    margin:10px !important;
+    background-color: #eadb8d !important;
+    max-height: 200px !important;
+    overflow-y: auto !important;
+    border-radius:4px !important;
+}
+.feature-articles-textColor {
+    color: #000000 !important;
+}
+
+/* Journal information */
+.top-sideBox.journal-information {
+    background-color: #0094d3 !important;
+}
+
+/* Journal issues */
+.top-sideBox.issues-cover {
+    background-color: #0094d3 !important;
+}
+
+/* publish with us */
+.top-sideBox.publish-box {
+    background-color: #0094d3 !important;
+}
+
+/* contact us  */
+.right-sideBox.connect-us {
+    background-color: #329fd9 !important;
+}
+
+/* issue header  */
+.volumeHeader.issue-header-color {
+    background-color: #0094d3 !important;
+}
+.volumeHeader.issue-header-color,
+.volumeHeader.issue-header-color * {
+    color: #10274c !important;
+}
+
+.xs-header * {
+    color: #0094d3 !important;
+}
