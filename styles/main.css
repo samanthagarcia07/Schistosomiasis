@@ -1,10 +1,20 @@
-body{ background: rgb(135 206 250);
-	/* background: rgb(135 206 250); /*Michael's */
-	/*background-color: rgb(108,195,230);  /*Esteban*/
-font-family: 'PT Sans Narrow', sans-serif; font-size: 165% }
 
-.heading{ 
+{font-family: 'PT Sans Narrow', sans-serif; font-size: 175% }
+
+
+body{
+	background-color:lightcyan;
+}  
+	{font-family: 'PT Sans Narrow', sans-serif; font-size: 165%}
+
+
+.heading{
 color: ; }
+
+#font {
+	text-align: center;
+	font-size: 200%;
+}
 
 #Heading-3{
 	font-size: 150%;
@@ -15,7 +25,34 @@ color: ; }
 }
 
 
+#float-left {float: left; margin: 30px}
 
+#border {
+	border: solid;
+	padding: 30px;
+	border-color: rgb(0, 215, 205);
+	background-color: rgb(0, 215, 205);
+}
 
-#float-left{float: left; margin: 30px}
+body {
+	font-size: 150%
+}
 
+#border2 {
+	border: solid;
+	border-color: rgb(0, 215, 205);
+}
+
+#border3 {
+	border: solid;
+	border-color: rgb(0, 215, 205);
+}
+
+#border4 {
+	border: solid;
+	border-color: rgb(0, 215, 205);
+}
+
+.nav1 {
+	animation-name: all;
+}
