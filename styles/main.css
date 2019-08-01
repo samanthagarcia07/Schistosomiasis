@@ -1,6 +1,5 @@
+
 body{ background:lightcyan;
-	/* background: rgb(135 206 250); /*Michael's */
-	/*background-color: rgb(108,195,230);  /*Esteban*/
 font-family: 'PT Sans Narrow', sans-serif; font-size: 165% }
 
 .heading{ 
@@ -11,7 +10,7 @@ color: ; }
 }
 
 #Heading-4{
-	font-size: 160%
+	font-size: 150%
 }
 
 
