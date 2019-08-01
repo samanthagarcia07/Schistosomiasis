@@ -44,6 +44,12 @@ font-family: 'PT Sans Narrow', sans-serif; font-size: 165% }
 .heading{ 
 color: black; }
 
+
+#font {
+	text-align: center;
+	font-size: 200%;
+}
+
 #Heading-3{
 	font-size: 150%;
 }
@@ -53,8 +59,36 @@ color: black; }
 }
 
 
+#float-left {float: left; margin: 30px}
+
+#border {
+	border: solid;
+	padding: 30px;
+	border-color: rgb(0, 215, 205);
+	background-color: rgb(0, 215, 205);
+}
+
+body {
+	font-size: 150%
+}
+
+#border2 {
+	border: solid;
+	border-color: rgb(0, 215, 205);
+}
+
+#border3 {
+	border: solid;
+	border-color: rgb(0, 215, 205);
+}
+
+#border4 {
+	border: solid;
+	border-color: rgb(0, 215, 205);
+}
 
 
-#float-left{float: left; margin: 30px}
-
+.nav1 {
+	animation-name: all;
+}
 
