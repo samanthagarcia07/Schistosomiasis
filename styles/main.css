@@ -1,11 +1,5 @@
-/*main.css*/
-body{
-	background-color: lightcyan
-}
 
-.heading{
-	color: black;
-}
+/*main.css*/
 
 #my_image{
 	text-align: center;
@@ -42,3 +36,25 @@ body{
 	text-align: left;
 
 }
+
+
+body{ background:lightcyan;
+font-family: 'PT Sans Narrow', sans-serif; font-size: 165% }
+
+.heading{ 
+color: black; }
+
+#Heading-3{
+	font-size: 150%;
+}
+
+#Heading-4{
+	font-size: 150%
+}
+
+
+
+
+#float-left{float: left; margin: 30px}
+
+
