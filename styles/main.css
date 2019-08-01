@@ -1,11 +1,49 @@
 
-body{
-	background-color:lightcyan;
-	font-family: 'PT Sans Narrow', sans-serif; font-size: 165%}
+/*main.css*/
+
+#my_image{
+	text-align: center;
+	height: 50px;
+	width: 1100px;
+}
+
+#smash_photo{
+	margin: auto 250px;
+}
+
+#my_paragraph{
+	text-align: center;
+	margin: auto 150px;
+}
 
 
-.heading{
-color: ; }
+#my_bar{
+	border-style: solid;
+	border-radius: 5px;
+	background: white;
+}
+
+#my_paragraph, #my_image{
+  border: 5px solid purple;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+#justyce, #michael, #esteban, #samantha{
+	text-align: left;
+
+}
+
+
+body{ background:lightcyan;
+font-family: 'PT Sans Narrow', sans-serif; font-size: 165% }
+
+.heading{ 
+color: black; }
+
 
 #font {
 	text-align: center;
@@ -49,6 +87,8 @@ body {
 	border-color: rgb(0, 215, 205);
 }
 
+
 .nav1 {
 	animation-name: all;
 }
+
